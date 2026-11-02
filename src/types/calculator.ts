@@ -1,4 +1,4 @@
-export type MakingChargeOption = 15 | 18 | 20;
+export type MakingChargeOption = 15 | 18 | 20 | 22 | 25 | 30; // Added 25% and 30% as additional options
 
 export interface CalculationInputs {
   weight: string; // stored as string to allow natural typing like '2.', '2.5', ''

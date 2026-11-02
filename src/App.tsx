@@ -12,13 +12,10 @@ import {
   formatINR,
   formatGrams,
 } from './utils/calculator';
-import { Header } from './components/Header';
 import { CalculatorInputs } from './components/CalculatorInputs';
 import { CalculationResults } from './components/CalculationResults';
 import { PrintQuotationModal } from './components/PrintQuotationModal';
-import { PricingFormulaGuide } from './components/PricingFormulaGuide';
 import { SavedEstimates } from './components/SavedEstimates';
-import { Sparkles, Award, ShieldCheck, Scale, Info } from 'lucide-react';
 
 // Generated luxury jewellery image asset
 const JEWELLERY_SHOWCASE_IMG = '/src/assets/images/luxury_gold_jewellery_showcase_1793591992877.jpg';

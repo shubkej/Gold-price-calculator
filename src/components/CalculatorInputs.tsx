@@ -10,7 +10,7 @@ interface CalculatorInputsProps {
   validationError?: string;
 }
 
-const MAKING_CHARGE_OPTIONS: MakingChargeOption[] = [15, 18, 20];
+const MAKING_CHARGE_OPTIONS: MakingChargeOption[] = [15, 18, 20,22, 25, 30]; // Added 25% and 30% as additional options
 
 const POPULAR_WEIGHT_PRESETS = [
   { label: '1g', value: '1' },
