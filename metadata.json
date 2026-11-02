@@ -1,0 +1,7 @@
+{
+  "name": "Gold Jewellery Price Calculator",
+  "description": "Instant, accurate gold jewellery billing calculator with making charges and 3% GST calculation for jewellers and shoppers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
